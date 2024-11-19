@@ -1,0 +1,11 @@
+name: HQJoinAndQuitMessage
+main: kr.cosine.joinandquitmessage.HQJoinAndQuitMessage
+version: 1.0.0
+api-version: 1.17
+author: Cosine_A
+depend:
+  - HQFramework
+
+commands:
+  버킷입퇴장메시지리로드:
+    permission: op

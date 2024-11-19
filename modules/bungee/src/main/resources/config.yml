@@ -1,0 +1,6 @@
+message:
+  enabled: true
+  # %player% = 유저 이름
+  # %player_display% = 유저 디스플레이 이름
+  join: "&a[+] &f%player%님이 접속하였습니다."
+  quit: "&c[-] &f%player%님이 퇴장하였습니다."

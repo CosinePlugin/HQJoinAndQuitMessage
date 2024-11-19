@@ -1,0 +1,6 @@
+name: HQJoinAndQuitMessage
+main: kr.cosine.joinandquitmessage.HQJoinAndQuitMessage
+version: 1.0.0
+author: Cosine_A
+depends:
+  - HQFramework
